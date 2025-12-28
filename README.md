@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎨 Ankit Bhartiyam Arts – Portfolio Website
 
-<!--
-**ankitbhartiyam/ankitbhartiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the official portfolio website for **Ankit Bhartiyam Arts**, showcasing handmade paintings, portraits, devotional artworks, and custom art orders.
 
-Here are some ideas to get you started:
+The website is **fast, mobile-friendly, and hosted on GitHub Pages** using simple HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Live Website:**  
+https://ankitbhartiyam.github.io/ankit-bhartiyam-arts/
+
+---
+
+## ✨ Features
+
+- 🎨 Minimal & modern artist portfolio design
+- 📱 Fully responsive (mobile-first)
+- 🖼️ Image gallery for artworks
+- 🎥 YouTube video embed section
+- 📩 Direct contact via Instagram & Email
+- ⚡ Fast loading (no backend required)
+- 🌍 Free hosting using GitHub Pages
+
+---
+
+## 📁 Project Structure
