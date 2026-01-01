@@ -1,0 +1,8 @@
+{
+  "name": "Ankit Bhartiyam Art Portfolio",
+  "description": "The creative portfolio of Ankit Bhartiyam, Fine Artist and Art Educator specializing in Acrylic and Oil portraiture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

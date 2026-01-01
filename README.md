@@ -1,24 +1,20 @@
-# 🎨 Ankit Bhartiyam Arts – Portfolio Website
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-This is the official portfolio website for **Ankit Bhartiyam Arts**, showcasing handmade paintings, portraits, devotional artworks, and custom art orders.
+# Run and deploy your AI Studio app
 
-The website is **fast, mobile-friendly, and hosted on GitHub Pages** using simple HTML, CSS, and JavaScript.
+This contains everything you need to run your app locally.
 
-🌐 **Live Website:**  
-https://ankitbhartiyam.github.io/ankit-bhartiyam-arts/
+View your app in AI Studio: https://ai.studio/apps/drive/1lgYCDsU8aGc9esQFdaD_aVw_NA7hSdoP
 
----
+## Run Locally
 
-## ✨ Features
+**Prerequisites:**  Node.js
 
-- 🎨 Minimal & modern artist portfolio design
-- 📱 Fully responsive (mobile-first)
-- 🖼️ Image gallery for artworks
-- 🎥 YouTube video embed section
-- 📩 Direct contact via Instagram & Email
-- ⚡ Fast loading (no backend required)
-- 🌍 Free hosting using GitHub Pages
 
----
-
-## 📁 Project Structure
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
